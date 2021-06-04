@@ -1,0 +1,5 @@
+== Spartakiade 2021 Session Effective Python Core-Team
+
+* refnode <refnode@gmail.com>
+
+== Special thanks for contributions
